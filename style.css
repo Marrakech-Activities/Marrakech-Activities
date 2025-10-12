@@ -38,8 +38,6 @@ nav a {
 nav a:hover {
   color: #e74c3c;
 }
-
-/* Hero Section */
 .hero {
   background: url('https://cdn.getyourguide.com/img/location/5d8b7f132f27d.jpeg/88.jpg') center/cover no-repeat;
   color: #fff;
@@ -121,7 +119,6 @@ footer {
   border-top: 1px solid #eee;
   margin-top: 40px;
 }
-/* ===== HERO SECTION ===== */
 .hero {
   position: relative;
   height: 90vh;
